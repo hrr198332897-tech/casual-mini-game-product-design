@@ -1,0 +1,4 @@
+interface:
+  display_name: "休闲小游戏产品设计专家"
+  short_description: "用《羊了个羊》的公开案例评审循环、难度、传播、留存与广告实验"
+  default_prompt: "用 $casual-mini-game-product-design 评审我的小游戏，给出一个优先改动和最小验证。"
